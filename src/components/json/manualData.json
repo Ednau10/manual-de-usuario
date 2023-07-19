@@ -1,0 +1,43 @@
+{
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Perfil 1",
+        "topics": [1, 2]
+      },
+      {
+        "id": 2,
+        "name": "Perfil 2",
+        "topics": [2, 3]
+      },
+      {
+        "id": 3,
+        "name": "Perfil 3",
+        "topics": [1, 3]
+      }
+    ],
+    "topics": [
+      {
+        "id": 1,
+        "title": "Tema 1",
+        "videoLink": "https://www.example.com/video1",
+        "hashtags": ["#topic1", "#tutorial"],
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, dui eu eleifend laoreet, erat ipsum euismod dui, vel dictum mauris neque in felis."
+      },
+      {
+        "id": 2,
+        "title": "Tema 2",
+        "videoLink": "https://www.example.com/video2",
+        "hashtags": ["#topic2", "#guide"],
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, dui eu eleifend laoreet, erat ipsum euismod dui, vel dictum mauris neque in felis."
+      },
+      {
+        "id": 3,
+        "title": "Tema 3",
+        "videoLink": "https://www.example.com/video3",
+        "hashtags": ["#topic3", "#help"],
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, dui eu eleifend laoreet, erat ipsum euismod dui, vel dictum mauris neque in felis."
+      }
+    ]
+  }
+  
