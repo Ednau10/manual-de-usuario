@@ -1,0 +1,106 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Creador de Requisiciones",
+      "topics": [
+        {"numberTopic":1, "desc":"Inicio de sesión web" },
+        {"numberTopic":2, "desc":"Crear nueva Requisición"},
+        {"numberTopic":3, "desc":"Solicitar Revisión" },
+        {"numberTopic":4, "desc":"Mandar a Firmas"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Revisor o Receptor",
+      "topics": [
+        {"numberTopic":1, "desc":"Inicio de sesion web" },
+        {"numberTopic":5, "desc":"Revisar Requisición"},
+        {"numberTopic":6, "desc":"Aceptar o Rechazar Requisición"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Perfil 3",
+      "topics":  [
+        {"numberTopic":1, "desc":"Inicio de sesion web" },
+        {"numberTopic":7, "desc":"Revisar Requisición"},
+        {"numberTopic":8, "desc":"Aceptar o Rechazar Requisición"}
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "numberTopic":1,
+      "title": "Inicio de sesion web",
+      "videoLink": "https://www.loom.com/share/39a08b30c44f4a599674f9c77c4aa7cd?sid=22f862ee-f819-41f3-b237-77f6b0cd9510",
+      "videoTitle":"El gran Tema 1",
+      "hashtags": ["#iniciodesesion", "#tutorial"],
+      "instructions": "1.- Ingresa al sitio: https://lpa.pruebas.complise.mx/login\n2.- Introduce tu usuario y contraseña.\n3. Selecciona el botón “”."
+    },
+    {
+      "id": 2,
+      "numberTopic":2,
+      "title": "Crear nueva Requisición",
+      "videoLink": "https://www.loom.com/share/39a08b30c44f4a599674f9c77c4aa7cd?sid=22f862ee-f819-41f3-b237-77f6b0cd9510",
+      "videoTitle":"El gran Tema 2",
+      "hashtags": ["#topic2", "#guide"],
+      "instructions": "Instrucciones para crear una nueva Requisición."
+    },
+    {
+      "id": 3,
+      "numberTopic":3,
+      "title": "Solicitar Revisión",
+      "videoLink": "https://www.loom.com/share/39a08b30c44f4a599674f9c77c4aa7cd?sid=22f862ee-f819-41f3-b237-77f6b0cd9510",
+      "videoTitle":"El gran Tema 3",
+      "hashtags": ["#topic3", "#help"],
+      "instructions": "Instrucciones para solicitar una revisión."
+    },
+    {
+      "id": 4,
+      "numberTopic":4,
+      "title": "Mandar a Firmas",
+      "videoLink": "https://www.loom.com/share/39a08b30c44f4a599674f9c77c4aa7cd?sid=22f862ee-f819-41f3-b237-77f6b0cd9510",
+      "videoTitle":"El gran Tema 3",
+      "hashtags": ["#topic3", "#help"],
+      "instructions": "Instrucciones para mandar a firmar una Requisición."
+    },
+    {
+      "id": 5,
+      "numberTopic":5,
+      "title": "Revisar Requisición",
+      "videoLink": "https://www.example.com/video1",
+      "videoTitle":"El gran Tema 1",
+      "hashtags": ["#topic1", "#tutorial"],
+      "instructions": "Instrucciones para revisar una Requisición."
+    },
+    {
+      "id": 6,
+      "numberTopic":6,
+      "title": "Aceptar o Rechazar Requisición",
+      "videoLink": "https://www.example.com/video2",
+      "videoTitle":"El gran Tema 2",
+      "hashtags": ["#topic2", "#guide"],
+      "instructions": "Instrucciones para aceptar o rechazar una Requisición."
+    },
+    {
+      "id": 7,
+      "numberTopic":3,
+      "title": "Revisar Requisició",
+      "videoLink": "https://www.example.com/video3",
+      "videoTitle":"El gran Tema 3",
+      "hashtags": ["#topic3", "#help"],
+      "instructions": "Instrucciones para revisar una Requisición."
+    },
+    {
+      "id": 8,
+      "numberTopic":4,
+      "title": "Aceptar o Rechazar Requisición",
+      "videoLink": "https://www.example.com/video3",
+      "videoTitle":"El gran Tema 3",
+      "hashtags": ["#topic3", "#help"],
+      "instructions": "Instrucciones para aceptar o rechazar una Requisición."
+    }
+  ]
+}
